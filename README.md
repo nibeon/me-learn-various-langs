@@ -12,7 +12,6 @@ me learning basics of various programming languages...
 
 **me-learn-go** - смотрел основы языка Go по разным турориалам
 
-
 **me-learn-haskell** - смотрел основы хаскеля по разным турориалам
 
-**my-elm** - смотрел основы Elm по туториалу
+**my-elm** - смотрел основы Elm по туториалу (несколько старенькое)
