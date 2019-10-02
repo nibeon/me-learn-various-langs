@@ -17,3 +17,5 @@ me learning basics of various programming languages...
 **my-elm** - смотрел основы Elm по туториалу (несколько старенькое)
 
 **MyScotty** - попробовал создать простой сайт на веб-фрейморке Scotty (Haskell). (2015 г.)
+
+**hello-nim** - посмотрел основы языка Nim по книжке "Nim basics", которую можно найти на оффициальном сайте языка.
